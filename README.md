@@ -4,15 +4,15 @@
 </p>
 
 <h1 align="center">👋 Hey, I'm <span style="color:#00ff99;">Ali Boyacı</span></h1>
-<h3 align="center">Full-Stack Developer • Industrial Systems • MERN & IoT</h3>
+<h3 align="center">Full-Stack Developer • Javascript • Real-Time Systems • MERN & IoT</h3>
 
 ---
 
 ### 🧑‍💻 About Me  
 - 🚀 Currently building **Showcase Projects** to highlight my work.  
-- 🔭 Experienced in **MES, IoT, Docker/K8s, and Full-Stack Web Apps**.  
+- 🔭 Highly experienced in **MES, IoT, Docker/K8s, and Full-Stack Web Apps**.  
 - 🌱 Learning **Flutter** to expand into cross-platform mobile development.  
-- ⚡ Fun fact: I love **Matrix / cyberpunk aesthetics**, boxing 🥊, and stoic productivity.  
+- ⚡ Fun fact: I love **Matrix / cyberpunk aesthetics**, boxing 🥊 and stoic productivity.  
 
 ---
 
@@ -41,20 +41,7 @@
 ---
 
 ### 🏗️ Featured Projects  
-🚧 **[Factory Dashboard](https://factory-dashboard-qmyq.onrender.com/)** – Real-time MES Dashboard (React + Node.js + Docker)  
+🚧 **[Factory Dashboard](https://factory-dashboard-qmyq.onrender.com/)** – Real-time Factory Dashboard (React + Node.js + Docker)  
 📱 **Flutter Learning Path** – Mobile Apps coming soon...  
-📊 **Internal Tooling @Konzek** – From rule engines to dashboards  
+ 
 
----
-
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aliboyaci&show_icons=true&theme=radical&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliboyaci&layout=compact&theme=radical&hide_border=true" height="165"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://i.ibb.co/zQyFV0z/matrix-terminal.gif" alt="terminal matrix" width="600"/>
-</p>
