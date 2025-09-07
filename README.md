@@ -43,5 +43,5 @@
 ---
 
 ### Featured Personal Projects
-- <strong><a href="https://factory-dashboard-qmyq.onrender.com">Factory Dashboard</a></strong> — Real-time factory dashboard (React + Node.js + Docker)
+- <strong><a href="https://factory-dashboard-nine.vercel.app">Factory Dashboard</a></strong> — Real-time factory dashboard (React + Node.js + Docker)
 - <strong>Flutter Prototypes</strong> — small utilities & POCs (ongoing)
