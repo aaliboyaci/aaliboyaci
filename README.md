@@ -1,37 +1,39 @@
-<!-- Profil Banner -->
+<!-- Profile Banner -->
 <p align="center">
   <img src="https://i.ibb.co/T0gKqVq/matrix-code.gif" alt="matrix rain" width="100%"/>
 </p>
 
-<h1 align="center">👋 Hey, I'm <span style="color:#00ff99;">Ali Boyacı</span></h1>
-<h3 align="center">Full-Stack Developer • Javascript • Real-Time Systems • MERN & IoT</h3>
+<h1 align="center">Ali Boyacı</h1>
+<h3 align="center">Full-Stack Developer • JavaScript • Real-Time Systems • MERN & IoT</h3>
 
 ---
 
-### 🧑‍💻 About Me  
-- 🚀 Currently building **Showcase Projects** to highlight my work.  
-- 🔭 Highly experienced in **MES, IoT, Docker/K8s, and Full-Stack Web Apps**.  
-- 🌱 Learning **Flutter** to expand into cross-platform mobile development.  
-- ⚡ Fun fact: I love **Matrix / cyberpunk aesthetics**, boxing 🥊 and stoic productivity.  
+### About Me
+- Actively shipping production software — selected case studies below
+- Highly experienced in **MES, IoT, Docker/K8s, and Full-Stack Web Apps**
+- LLM-first builder — strong prompt design, RAG pipelines (Node.js), embeddings to real products
+- Learning **Flutter** to bring our stacks to mobile
+- I like Matrix / cyberpunk aesthetics, boxing and stoic productivity
+
 
 ---
 
-### 🔗 Connect with me  
+### Connect with me
 <p align="left">
-  <a href="https://www.hackerrank.com/aaliboyaci" target="blank">
-    <img src="https://img.shields.io/badge/Hackerrank-%231ba94c.svg?&style=for-the-badge&logo=HackerRank&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/ali-boyaci" target="blank">
+    <a href="mailto:aaliboyaci@gmail.com">
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>  
+  <a href="https://www.linkedin.com/in/aaliboyaci" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:aliboyaci.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="https://www.hackerrank.com/aaliboyaci" target="blank">
+    <img src="https://img.shields.io/badge/Hackerrank-%231ba94c.svg?&style=for-the-badge&logo=HackerRank&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-### ⚙️ Tech Stack  
+### Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,postgres,docker,kubernetes,html,css,git" />
   <br/>
@@ -40,8 +42,6 @@
 
 ---
 
-### 🏗️ Featured Projects  
-🚧 **[Factory Dashboard](https://factory-dashboard-qmyq.onrender.com/)** – Real-time Factory Dashboard (React + Node.js + Docker)  
-📱 **Flutter Learning Path** – Mobile Apps coming soon...  
- 
-
+### Featured Personal Projects
+- <strong><a href="https://factory-dashboard-qmyq.onrender.com/">Factory Dashboard</a></strong> — Real-time factory dashboard (React + Node.js + Docker)
+- <strong>Flutter Prototypes</strong> — small utilities & POCs (ongoing)
