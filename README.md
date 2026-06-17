@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  Istanbul, Turkey &nbsp;·&nbsp; Open to opportunities
+  Istanbul, Turkey &nbsp;·&nbsp; <em>There is no spoon — only systems we choose to build.</em>
 </p>
 
 <p align="center">
